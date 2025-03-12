@@ -25,6 +25,3 @@ python face_filter_app.py
 ## Notes
 - You can replace `sunglasses.png` with any transparent PNG filter.
 - Modify `apply_filter()` to position filters accurately.
-
-## License
-This project is open-source and free for educational use.
